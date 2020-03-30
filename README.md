@@ -1,1 +1,1 @@
-# kuberiter_istio
+# kuberiter_copa_istio
